@@ -3,7 +3,7 @@
 **Emulator** is a high-performance 8086/8088 CPU emulator and development environment built entirely in Swift and SwiftUI for macOS. It features a custom-built two-pass assembler, a memory-mapped VGA display, and a real-time instruction execution engine.
 
 
-#<img width="1372" height="651" alt="Screenshot 2026-03-28 at 2 45 30 AM" src="https://github.com/user-attachments/assets/893430e7-f79c-4361-ab19-70d84f693914" />
+<img width="1372" height="651" alt="Screenshot 2026-03-28 at 2 45 30 AM" src="https://github.com/user-attachments/assets/893430e7-f79c-4361-ab19-70d84f693914" />
 
 # 🚀 Features
 
@@ -29,7 +29,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AhmedGaafar/Swift8086.git
+   git clone https://github.com/AGaafar7/Emulator.git
    ```
 2. Open `Emulator.xcodeproj` in Xcode 15+.
 3. Select **My Mac** as the run destination.
@@ -81,5 +81,5 @@ FINISH:
 Contributions are welcome! If you have optimized an opcode or added a new BIOS interrupt, feel free to open a Pull Request.
 
 ---
-**Created by [Ahmed Gaafar](https://github.com/AhmedGaafar)**  
+**Created by [Ahmed Gaafar](https://github.com/AGaafar7)**  
 *Project started on March 27, 2026.*
